@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+💬 Ask me about **Javascript** & **Python**.
+
 <!--
 **manikandan-ramar/manikandan-ramar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
