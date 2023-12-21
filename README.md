@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hi there 👋🏻
 
-💬 Ask me about **HTML**, **CSS**, **Javascript**, & **ReactJS**.
+💬 Ask me about **ReactJS** | **React Native** | **NodeJS**.
 
 <!--
 **manikandan-ramar/manikandan-ramar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
