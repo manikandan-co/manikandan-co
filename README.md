@@ -3,7 +3,7 @@
 <p align="center">
   🚀 Senior Software Engineer | Full-Stack JavaScript Dev | Tech Entrepreneur <br/>
   💻 ReactJS · Next.js · React Native · Node.js · Firebase · Strapi · MongoDB <br/>
-  🌐 <a href="https://manikandan.co" target="_blank">manikandan.co</a> | 🐦 <a href="https://twitter.com/manikandan_co" target="_blank">@manikandan_co</a>
+  🌐 <a href="https://manikandan.co" target="_blank">manikandan.co</a> | ℹ️ <a href="https://linkedin.com/in/manikandan-co" target="_blank">@manikandan-co</a>
 </p>
 
 ---
